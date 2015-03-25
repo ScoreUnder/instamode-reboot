@@ -1,0 +1,12 @@
+# InstaMode Reboot is based on Kaikz' InstaMode, and is licensed under the
+# GNU General Public License v3
+name: InstaMode Reboot
+author: Score_Under
+website: https://github.com/ScoreUnder
+description: Instantly change your own gamemode.
+main: com.github.scoreunder.instamode.InstaMode
+version: 1.2
+commands:
+  mode:
+    description: Changes your gamemode to the chosen mode.
+    usage: /<command> [survival|creative|adventure|spectator]
